@@ -10,7 +10,7 @@
 - Spring MVC
 - Spring Data JPA
 - Hibernate
-База данных: PostgreSQL.
+- PostgreSQL.
 
 ## Структура проекта
 
