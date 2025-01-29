@@ -29,7 +29,7 @@
    - ClimateSensorAPI/src/main/java/ru/garskov/springcourse/ClimateSensorAPI/ClimateSensorApiApplication.java
   
 6. **Перейдите в директорию с Java-клиентом и запустите класс:**
-   -ClimateSensorClient/src/main/java/ru/garskov/springcourse/App.java
+   - ClimateSensorClient/src/main/java/ru/garskov/springcourse/App.java
    
 Клиент начнет отправлять данные на REST API приложение.
 
