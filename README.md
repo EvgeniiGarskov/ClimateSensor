@@ -27,11 +27,11 @@
 
 5. **Запустите приложение REST API в IntelliJ IDEA, следуя указанному пути:**
    - ClimateSensorAPI/src/main/java/ru/garskov/springcourse/ClimateSensorAPI/ClimateSensorApiApplication.java
+  Приложение будет доступно по адресу: http://localhost:8080.
   
 6. **Перейдите в директорию с Java-клиентом и запустите класс:**
    - ClimateSensorClient/src/main/java/ru/garskov/springcourse/App.java
-   
-Клиент начнет отправлять данные на REST API приложение.
+   Клиент начнет отправлять данные на REST API приложение.
 
 ## Использование
 
