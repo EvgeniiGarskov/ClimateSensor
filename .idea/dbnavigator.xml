@@ -40,9 +40,7 @@ select * from Measurement;]]></console>
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files>
-      <object connection-id="9cd3ae82-6660-4481-b355-69be215151c1" object-ref="consoles/climate_sensor_app_db" />
-    </open-files>
+    <open-files />
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="9cd3ae82-6660-4481-b355-69be215151c1" />

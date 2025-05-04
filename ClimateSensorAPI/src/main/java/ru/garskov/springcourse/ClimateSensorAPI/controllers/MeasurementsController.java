@@ -36,9 +36,7 @@ public class MeasurementsController {
     public ResponseEntity<HttpStatus> addMeasurement(@RequestBody @Valid MeasurementDTO measurementDTO,
                                                      BindingResult bindingResult) {
         Measurement measurement = convertToMeasurement(measurementDTO);
-
         measurementValidator.validate(measurement, bindingResult);
-
         if (bindingResult.hasErrors()) {
             buildErrorMessage(bindingResult);
         }

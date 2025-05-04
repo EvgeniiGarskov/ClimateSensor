@@ -31,9 +31,6 @@ public class Sensor {
     @JsonIgnore // Игнорируем это поле для предотвращения бесконечной рекурсии
     private List<Measurement> measurements;
 
-    public Sensor() {
-    }
-
     public Integer getId() {
         return id;
     }
